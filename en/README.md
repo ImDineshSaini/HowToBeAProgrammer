@@ -2,7 +2,7 @@
 
 Robert L. Read with Community
 
-Copyright 2002, 2003, 2016 Robert L. Read
+Copyright 20019 Robert L. Read / Dinesh Saini
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
